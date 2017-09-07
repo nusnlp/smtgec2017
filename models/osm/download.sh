@@ -1,0 +1,1 @@
+curl -L -o operationLM.bin https://nus.edu/2wFQvO8
