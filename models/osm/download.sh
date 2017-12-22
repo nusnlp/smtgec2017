@@ -1,1 +1,1 @@
-curl -L -o operationLM.bin https://nus.edu/2wFQvO8
+curl -L -o operationLM.bin https://tinyurl.com/y7j687l3/osm/operationLM.bin

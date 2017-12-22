@@ -1,2 +1,2 @@
-curl -L -o phrase-table.char.gz https://nus.edu/2wFP3v4
-curl -L -o phrase-table.minphr https://nus.edu/2eKNVQN
+curl -L -o phrase-table.char.gz https://tinyurl.com/y7j687l3/pt/phrase-table.char.gz
+curl -L -o phrase-table.minphr https://tinyurl.com/y7j687l3/pt/phrase-table.minphr

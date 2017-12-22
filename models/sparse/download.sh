@@ -1,1 +1,1 @@
-curl -L -o word.moses.ini.sparse https://nus.edu/2ucvP0g
+curl -L -o word.moses.ini.sparse https://tinyurl.com/y7j687l3/sparse/word.moses.ini.sparse
