@@ -1,7 +1,7 @@
 ## Project directories
 MODEL_DIR=$PWD/models
 SCRIPTS_DIR=$PWD/scripts 
-SOFTWARE_DIR=$PWD/softwares
+SOFTWARE_DIR=$PWD/software
 
 #For running
 MOSES_DIR=$SOFTWARE_DIR/mosesdecoder

@@ -22,7 +22,7 @@ If you use the models from this work, please cite this paper:
 1. cmph - For compact phrase tables
 2. nplm - For neural network joint model feature in Moses.
 3. Moses Release 3.0
-    - Execute `./download.sh` in `softwares/` directory to download the specific revision of Moses used in this work.
+    - Execute `./download.sh` in `software/` directory to download the specific revision of Moses used in this work.
     - Moses needs to be compiled with `---with-cmph=/path/to/cmph-2.0 --with-nplm=/path/to/nplm --max-kenlm-order=9` this flag
 
 ### Downloading the Models
