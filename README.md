@@ -6,7 +6,7 @@ This repository contains scripts and models to replicate the results of the stat
 If you use the models from this work, please cite this paper:
 
 ```
-@article{chollampatt2017gec,
+@InProceedings{chollampatt2017gec,
   author    = {Chollampatt, Shamil, and Ng, Hwee Tou},
   title     = {Connecting the Dots: Towards Human-level Grammatical Error Correction},
   booktitle = {Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educational Applications},
