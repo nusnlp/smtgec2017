@@ -3,7 +3,7 @@
 
 This repository contains scripts and models to replicate the results of the state-of-the-art (in 2017) grammatical error correction (GEC) system. The system primarily uses the statistical machine translation (SMT) framework, with neural and character level translation components.
 
-If you use the models from this work, please cite this paper:
+If you use the models from this work, please cite this [paper](http://aclweb.org/anthology/W17-5037):
 
 ```
 @InProceedings{chollampatt2017gec,
