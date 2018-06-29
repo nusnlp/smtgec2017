@@ -1,1 +1,0 @@
-curl -L -o word.moses.ini.sparse https://tinyurl.com/y7j687l3/sparse/word.moses.ini.sparse

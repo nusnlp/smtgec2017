@@ -1,1 +1,0 @@
-curl -L -o operationLM.bin https://tinyurl.com/y7j687l3/osm/operationLM.bin
