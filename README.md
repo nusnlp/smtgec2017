@@ -7,7 +7,7 @@ If you use the models from this work, please cite this [paper](http://aclweb.org
 
 ```
 @InProceedings{chollampatt2017gec,
-  author    = {Chollampatt, Shamil, and Ng, Hwee Tou},
+  author    = {Chollampatt, Shamil and Ng, Hwee Tou},
   title     = {Connecting the Dots: Towards Human-level Grammatical Error Correction},
   booktitle = {Proceedings of the 12th Workshop on Innovative Use of NLP for Building Educational Applications},
   month     = {September},
